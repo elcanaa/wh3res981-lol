@@ -1,0 +1,8 @@
+{
+  "name": "wh3res981-profile",
+  "version": "1.0.0",
+  "description": "Personal profile page",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
